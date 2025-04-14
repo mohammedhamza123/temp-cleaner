@@ -21,3 +21,19 @@
 - Tkinter
 - PIL
 - PyInstaller
+
+## طريقة تشغيل البرنامج على ويندوز
+
+عند فتح البرنامج لأول مرة، قد تظهر لك رسالة من Windows تقول:
+
+> Windows protected your PC  
+> Microsoft Defender SmartScreen prevented an unrecognized app from starting.
+
+لا تقلق، هذا طبيعي لأن البرنامج جديد ولم يتم التعرف عليه بعد.
+
+لتشغيله:
+
+1. اضغط على **More info** (معلومات إضافية).
+2. اضغط على **Run anyway** (تشغيل على أي حال).
+
+البرنامج آمن 100%، وتم تطويره بلغة Python لتنظيف ملفات النظام المؤقتة فقط.
