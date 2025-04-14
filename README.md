@@ -11,7 +11,7 @@
 [اضغط هنا لتحميل النسخة EXE](https://github.com/mohammedhamza123/temp-cleaner/releases)
 
 ## 🧠 طريقة الاستخدام:
-1. حمّل الملف `main.exe`
+1. حمّل الملف `pc_cleaner.exe`
 2. شغّله مباشرة (بدون الحاجة لتثبيت Python)
 3. اضغط "نظف الآن" وانتظر الرسالة
 
